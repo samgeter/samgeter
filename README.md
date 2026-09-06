@@ -4,7 +4,7 @@
 
 <br>
 
-[Products](#selected-systems) · [How I build](#how-i-build) · [Journey](#journey) · [GitHub](https://github.com/samgeter)
+[Products](#product-portfolio) · [How I build](#how-i-build) · [Journey](#journey) · [GitHub](https://github.com/samgeter)
 
 </div>
 
@@ -19,65 +19,51 @@ problem into a system people can use, measure, and improve.
 
 > Currently: **Product Lead & AI Engineer at Yuba Labs**
 
-## Selected systems
+## Product portfolio
 
-<img src="assets/product-map.svg" width="100%" alt="Selected products: Yuba, Apptus, DossieScholar, Mentel, and Zeb">
-
-<br>
-
-### 01 — [Yuba](https://yubanow.com/)
-
-**AI operating system for venture building in Africa**
-
-I designed and led development of Yuba's multi-tenant platform for founders and
-entrepreneurship-support organizations. The system supports venture-validation journeys,
-cohorts, portfolios, bookings, usage controls, and role-specific workspaces.
-
-`TypeScript` `React` `Supabase` `PostgreSQL` `RBAC` `AI workflows` `API integrations`
-
----
-
-### 02 — [Apptus](https://app.useapptus.com/)
-
-**Application and selection infrastructure for entrepreneurship programs**
-
-I built production-facing SaaS workflows that help support organizations discover founders,
-tailor application requirements, and manage rubric-based selection processes. My work included
-role-aware dashboards, multi-organization access, and operational workflow automation.
-
-`TypeScript` `React` `Supabase` `PostgreSQL` `REST APIs` `Multi-tenant SaaS`
-
----
-
-### 03 — DossieScholar
-
-**AI knowledge platform for university research**
-
-I designed and implemented a pipeline that converts university research papers into structured,
-searchable records. The platform combines document ingestion, OCR, retrieval-augmented
-generation, vector search, and production cloud services.
-
-`Python` `FastAPI` `OCR` `RAG` `Qdrant` `Azure OpenAI` `Microsoft Azure`
-
----
-
-### 04 — Mentel
-
-**Private product repository**
-
-Product scope and technical case study available on request.
-
-`Private codebase`
-
----
-
-### 05 — Zeb
-
-**Private product repository**
-
-Product scope and technical case study available on request.
-
-`Private codebase`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>01 / VENTURE BUILDING</sub></p>
+      <h3><a href="https://yubanow.com/">Yuba ↗</a></h3>
+      <p><strong>AI operating system for venture building in Africa.</strong></p>
+      <p>Designed and led development of a multi-tenant platform for founder journeys, venture validation, cohorts, portfolios, bookings, and role-specific workspaces.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>PostgreSQL</code> <code>RBAC</code> <code>AI workflows</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><sub>02 / PROGRAM OPERATIONS</sub></p>
+      <h3><a href="https://app.useapptus.com/">Apptus ↗</a></h3>
+      <p><strong>Application and selection infrastructure for entrepreneurship programs.</strong></p>
+      <p>Built production SaaS workflows for founder discovery, tailored application requirements, rubric-led selection, and multi-organization program operations.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>PostgreSQL</code> <code>REST APIs</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>03 / RESEARCH KNOWLEDGE</sub></p>
+      <h3>DossieScholar</h3>
+      <p><strong>AI knowledge platform for university research.</strong></p>
+      <p>Designed a pipeline that turns research papers into structured, searchable records using document ingestion, OCR, retrieval, vector search, and cloud services.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>OCR</code> <code>RAG</code> <code>Qdrant</code> <code>Azure OpenAI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><sub>04 / SELECTED BUILD</sub></p>
+      <h3>Mentel</h3>
+      <p><strong>Private product system.</strong></p>
+      <p>Product overview, engineering contribution, and technical case study are available on request.</p>
+      <p><code>Confidential codebase</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p><sub>05 / SELECTED BUILD</sub></p>
+      <h3>Zeb</h3>
+      <p><strong>Private product system.</strong></p>
+      <p>Product overview, engineering contribution, and technical case study are available on request.</p>
+      <p><code>Confidential codebase</code></p>
+    </td>
+  </tr>
+</table>
 
 ## How I build
 
