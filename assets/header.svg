@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
   <title id="title">Samuel Getachew Mulugeta</title>
-  <desc id="desc">Software Engineer, Product Lead, and AI Automation Specialist.</desc>
+  <desc id="desc">AI Engineer and Product Lead.</desc>
   <defs>
     <pattern id="grain" width="38" height="38" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1" fill="#17394b" opacity=".1"/>
@@ -16,21 +16,19 @@
   <path d="M1046 310h44M1068 288v44" stroke="#F2EDE3" stroke-width="3"/>
 
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="76" y="67" fill="#EF5A3C" font-size="15" font-weight="700" letter-spacing="3">ENGINEERING / PRODUCT / AUTOMATION</text>
+    <text x="76" y="67" fill="#EF5A3C" font-size="15" font-weight="700" letter-spacing="3">APPLIED AI / PRODUCT / SYSTEMS</text>
     <text x="72" y="165" fill="#102C3C" font-size="64" font-weight="800" letter-spacing="-2">SAMUEL</text>
     <text x="72" y="228" fill="#102C3C" font-size="64" font-weight="800" letter-spacing="-2">GETACHEW</text>
     <text x="72" y="270" fill="#53636A" font-size="20" letter-spacing="7">MULUGETA</text>
     <path d="M72 302h770" stroke="#C8BFB0" stroke-width="2"/>
-    <text x="72" y="345" fill="#102C3C" font-size="20" font-weight="700">Software Engineer</text>
-    <circle cx="270" cy="338" r="4" fill="#EF5A3C"/>
-    <text x="291" y="345" fill="#102C3C" font-size="20" font-weight="700">Product Lead</text>
-    <circle cx="440" cy="338" r="4" fill="#EF5A3C"/>
-    <text x="461" y="345" fill="#102C3C" font-size="20" font-weight="700">AI Automation Specialist</text>
-    <text x="72" y="389" fill="#67777D" font-size="15">Building systems that turn complex work into clear, repeatable products.</text>
+    <text x="72" y="345" fill="#102C3C" font-size="22" font-weight="700">AI Engineer</text>
+    <circle cx="223" cy="338" r="4" fill="#EF5A3C"/>
+    <text x="246" y="345" fill="#102C3C" font-size="22" font-weight="700">Product Lead</text>
+    <text x="72" y="389" fill="#67777D" font-size="15">Designing AI systems that turn complex work into useful, repeatable products.</text>
 
     <text transform="translate(1149 370) rotate(-90)" fill="#F2EDE3" font-size="13" font-weight="700" letter-spacing="4">SAMGETER / 2026</text>
-    <text x="1017" y="112" fill="#F2EDE3" font-size="15" font-weight="700" letter-spacing="3">BUILD</text>
-    <text x="1017" y="140" fill="#AFC1CB" font-size="15" letter-spacing="3">LEAD</text>
-    <text x="1017" y="168" fill="#AFC1CB" font-size="15" letter-spacing="3">AUTOMATE</text>
+    <text x="1017" y="112" fill="#F2EDE3" font-size="15" font-weight="700" letter-spacing="3">DISCOVER</text>
+    <text x="1017" y="140" fill="#AFC1CB" font-size="15" letter-spacing="3">DESIGN</text>
+    <text x="1017" y="168" fill="#AFC1CB" font-size="15" letter-spacing="3">DELIVER</text>
   </g>
 </svg>

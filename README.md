@@ -1,25 +1,29 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Samuel Getachew Mulugeta — Software Engineer, Product Lead, and AI Automation Specialist">
+<img src="assets/header.svg" width="100%" alt="Samuel Getachew Mulugeta — AI Engineer and Product Lead">
 
 <br>
 
-[Selected systems](#selected-systems) · [Technical toolkit](#technical-toolkit) · [GitHub](https://github.com/samgeter)
+[Products](#selected-systems) · [How I build](#how-i-build) · [Journey](#journey) · [GitHub](https://github.com/samgeter)
 
 </div>
 
 ## Hello
 
-I'm **Samuel Getachew Mulugeta**, a software engineer and product lead based in East Africa.
+I'm **Samuel Getachew Mulugeta**, an AI engineer and product lead based in East Africa.
 I design and build AI-powered SaaS products, internal tools, and workflow-driven systems—from
 early product definition and data modelling through deployment and production troubleshooting.
 
 My work sits where product thinking meets engineering: translating an ambiguous operational
 problem into a system people can use, measure, and improve.
 
-> Currently: **Product Lead & Software Engineer at Yuba Labs**
+> Currently: **Product Lead & AI Engineer at Yuba Labs**
 
 ## Selected systems
+
+<img src="assets/product-map.svg" width="100%" alt="Selected products: Yuba, Apptus, DossieScholar, Mentel, and Zeb">
+
+<br>
 
 ### 01 — [Yuba](https://yubanow.com/)
 
@@ -75,6 +79,12 @@ Product scope and technical case study available on request.
 
 `Private codebase`
 
+## How I build
+
+<img src="assets/system-map.svg" width="100%" alt="Product engineering process from framing the problem through production delivery">
+
+<br>
+
 ## Technical toolkit
 
 | Area | Technologies and practices |
@@ -93,6 +103,12 @@ Product scope and technical case study available on request.
 - Test the paths that affect real users and production operations.
 - Document decisions so the system can grow beyond its first builder.
 
+## Journey
+
+<img src="assets/journey.svg" width="100%" alt="Professional journey from Safe Transport and AgriStar to Dossie Technologies and Yuba Labs">
+
+<br>
+
 ## Beyond the code
 
 I hold a bachelor's degree in Computer Engineering from Addis Ababa Science and Technology
@@ -100,9 +116,9 @@ University and completed Jasiri's residential intensive entrepreneurship program
 engineering and venture-building experience shapes how I approach products: technically sound,
 operationally useful, and grounded in real user needs.
 
-<div align="center">
+<img src="assets/closing.svg" width="100%" alt="Let's build something useful">
 
-### Let's build something useful.
+<div align="center">
 
 [Explore my GitHub](https://github.com/samgeter) · [See Yuba](https://yubanow.com/)
 

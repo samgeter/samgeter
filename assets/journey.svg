@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title">
+  <title id="title">Professional journey</title>
+  <rect width="1200" height="330" rx="20" fill="#102F42"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="55" y="58" fill="#F15B3C" font-size="14" font-weight="700" letter-spacing="3">JOURNEY / LEARNING BY BUILDING</text>
+    <path d="M95 161h1010" stroke="#567080" stroke-width="2"/>
+    <g transform="translate(95 0)"><circle cx="0" cy="161" r="11" fill="#F15B3C"/><text x="0" y="116" fill="#F4EFE6" font-size="17" font-weight="700" text-anchor="middle">2022</text><text x="0" y="205" fill="#F4EFE6" font-size="15" font-weight="700" text-anchor="middle">Safe Transport</text><text x="0" y="228" fill="#8FA4AE" font-size="12" text-anchor="middle">Data tooling</text></g>
+    <g transform="translate(330 0)"><circle cx="0" cy="161" r="11" fill="#55C2B3"/><text x="0" y="116" fill="#F4EFE6" font-size="17" font-weight="700" text-anchor="middle">2022—23</text><text x="0" y="205" fill="#F4EFE6" font-size="15" font-weight="700" text-anchor="middle">AgriStar</text><text x="0" y="228" fill="#8FA4AE" font-size="12" text-anchor="middle">Farmer market access</text><text x="0" y="248" fill="#8FA4AE" font-size="12" text-anchor="middle">AYuTe 3rd place</text></g>
+    <g transform="translate(575 0)"><circle cx="0" cy="161" r="11" fill="#F4EFE6"/><text x="0" y="116" fill="#F4EFE6" font-size="17" font-weight="700" text-anchor="middle">2024</text><text x="0" y="205" fill="#F4EFE6" font-size="15" font-weight="700" text-anchor="middle">Computer Engineering</text><text x="0" y="228" fill="#8FA4AE" font-size="12" text-anchor="middle">AASTU</text></g>
+    <g transform="translate(820 0)"><circle cx="0" cy="161" r="11" fill="#55C2B3"/><text x="0" y="116" fill="#F4EFE6" font-size="17" font-weight="700" text-anchor="middle">2024—25</text><text x="0" y="205" fill="#F4EFE6" font-size="15" font-weight="700" text-anchor="middle">Dossie Technologies</text><text x="0" y="228" fill="#8FA4AE" font-size="12" text-anchor="middle">AI knowledge systems</text></g>
+    <g transform="translate(1105 0)"><circle cx="0" cy="161" r="15" fill="#F15B3C"/><circle cx="0" cy="161" r="25" fill="none" stroke="#F15B3C" opacity=".4"/><text x="0" y="116" fill="#F4EFE6" font-size="17" font-weight="700" text-anchor="middle">NOW</text><text x="0" y="205" fill="#F4EFE6" font-size="15" font-weight="700" text-anchor="middle">Yuba Labs</text><text x="0" y="228" fill="#8FA4AE" font-size="12" text-anchor="middle">Product Lead</text><text x="0" y="248" fill="#8FA4AE" font-size="12" text-anchor="middle">AI Engineer</text></g>
+    <text x="55" y="302" fill="#78909B" font-size="12">ADDIS ABABA  ·  KIGALI  ·  PRODUCTS BUILT FOR AFRICAN OPERATING CONTEXTS</text>
+  </g>
+</svg>

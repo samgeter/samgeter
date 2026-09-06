@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="title desc">
+  <title id="title">Samuel's selected product systems</title>
+  <desc id="desc">Yuba, Apptus, DossieScholar, Mentel, and Zeb.</desc>
+  <rect width="1200" height="540" rx="20" fill="#102F42"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="55" y="60" fill="#F15B3C" font-size="14" font-weight="700" letter-spacing="3">SELECTED PRODUCT SYSTEMS / 01—05</text>
+    <text x="55" y="105" fill="#F4EFE6" font-size="30" font-weight="700">Five products. One operating principle:</text>
+    <text x="55" y="140" fill="#AFC1C9" font-size="18">technology should make complex work clearer.</text>
+    <path d="M88 212H1115" stroke="#496273" stroke-width="2"/>
+
+    <g transform="translate(55 180)">
+      <circle cx="34" cy="32" r="31" fill="#F15B3C"/><text x="34" y="39" fill="#FFF" font-size="18" font-weight="700" text-anchor="middle">01</text>
+      <rect x="0" y="78" width="206" height="205" rx="12" fill="#F4EFE6"/>
+      <text x="20" y="120" fill="#102F42" font-size="23" font-weight="800">YUBA</text>
+      <text x="20" y="151" fill="#F15B3C" font-size="12" font-weight="700">VENTURE BUILDING</text>
+      <text x="20" y="187" fill="#52646C" font-size="14">Founder journeys,</text><text x="20" y="210" fill="#52646C" font-size="14">portfolios and</text><text x="20" y="233" fill="#52646C" font-size="14">venture validation.</text>
+      <path d="M20 253h166" stroke="#D5CCBF"/><text x="20" y="271" fill="#7A878B" font-size="11">PRODUCT LEAD + ENGINEERING</text>
+    </g>
+    <g transform="translate(282 180)">
+      <circle cx="34" cy="32" r="31" fill="#F4EFE6"/><text x="34" y="39" fill="#102F42" font-size="18" font-weight="700" text-anchor="middle">02</text>
+      <rect x="0" y="78" width="206" height="205" rx="12" fill="#173E55" stroke="#496273"/>
+      <text x="20" y="120" fill="#F4EFE6" font-size="23" font-weight="800">APPTUS</text>
+      <text x="20" y="151" fill="#55C2B3" font-size="12" font-weight="700">PROGRAM OPERATIONS</text>
+      <text x="20" y="187" fill="#B8C7CE" font-size="14">Founder discovery,</text><text x="20" y="210" fill="#B8C7CE" font-size="14">applications and</text><text x="20" y="233" fill="#B8C7CE" font-size="14">rubric-led selection.</text>
+      <path d="M20 253h166" stroke="#496273"/><text x="20" y="271" fill="#78909B" font-size="11">SAAS + WORKFLOWS</text>
+    </g>
+    <g transform="translate(509 180)">
+      <circle cx="34" cy="32" r="31" fill="#55C2B3"/><text x="34" y="39" fill="#102F42" font-size="18" font-weight="700" text-anchor="middle">03</text>
+      <rect x="0" y="78" width="206" height="205" rx="12" fill="#F4EFE6"/>
+      <text x="20" y="120" fill="#102F42" font-size="21" font-weight="800">DOSSIE</text><text x="20" y="144" fill="#102F42" font-size="21" font-weight="800">SCHOLAR</text>
+      <text x="20" y="174" fill="#F15B3C" font-size="12" font-weight="700">RESEARCH KNOWLEDGE</text>
+      <text x="20" y="207" fill="#52646C" font-size="14">OCR, retrieval and</text><text x="20" y="230" fill="#52646C" font-size="14">searchable research.</text>
+      <path d="M20 253h166" stroke="#D5CCBF"/><text x="20" y="271" fill="#7A878B" font-size="11">AI + DATA PIPELINES</text>
+    </g>
+    <g transform="translate(736 180)">
+      <circle cx="34" cy="32" r="31" fill="#F4EFE6"/><text x="34" y="39" fill="#102F42" font-size="18" font-weight="700" text-anchor="middle">04</text>
+      <rect x="0" y="78" width="206" height="205" rx="12" fill="#173E55" stroke="#496273"/>
+      <text x="20" y="120" fill="#F4EFE6" font-size="23" font-weight="800">MENTEL</text>
+      <text x="20" y="151" fill="#55C2B3" font-size="12" font-weight="700">PRIVATE PRODUCT</text>
+      <text x="20" y="187" fill="#B8C7CE" font-size="14">Product and technical</text><text x="20" y="210" fill="#B8C7CE" font-size="14">case study available</text><text x="20" y="233" fill="#B8C7CE" font-size="14">on request.</text>
+      <path d="M20 253h166" stroke="#496273"/><text x="20" y="271" fill="#78909B" font-size="11">SOURCE RESTRICTED</text>
+    </g>
+    <g transform="translate(963 180)">
+      <circle cx="34" cy="32" r="31" fill="#F15B3C"/><text x="34" y="39" fill="#FFF" font-size="18" font-weight="700" text-anchor="middle">05</text>
+      <rect x="0" y="78" width="182" height="205" rx="12" fill="#F4EFE6"/>
+      <text x="20" y="120" fill="#102F42" font-size="23" font-weight="800">ZEB</text>
+      <text x="20" y="151" fill="#F15B3C" font-size="12" font-weight="700">PRIVATE PRODUCT</text>
+      <text x="20" y="187" fill="#52646C" font-size="14">Product and technical</text><text x="20" y="210" fill="#52646C" font-size="14">case study available</text><text x="20" y="233" fill="#52646C" font-size="14">on request.</text>
+      <path d="M20 253h142" stroke="#D5CCBF"/><text x="20" y="271" fill="#7A878B" font-size="11">SOURCE RESTRICTED</text>
+    </g>
+    <text x="55" y="510" fill="#78909B" font-size="12" letter-spacing="1">PRODUCT DISCOVERY  →  SYSTEM DESIGN  →  IMPLEMENTATION  →  PRODUCTION</text>
+  </g>
+</svg>
