@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title">
+  <title id="title">Technology stack</title>
+  <rect x="1" y="1" width="1198" height="348" rx="16" fill="#0b1425" stroke="#263653" stroke-width="2"/>
+  <g font-family="Consolas, monospace">
+    <text x="32" y="44" fill="#64748b" font-size="14">TECH_STACK / VERIFIED_FROM_PUBLIC_WORK</text><path d="M32 63h1136" stroke="#263653"/>
+    <g transform="translate(32 88)"><rect width="356" height="210" rx="12" fill="#111c30" stroke="#23415a"/><text x="22" y="38" fill="#2dd4bf" font-size="14">LANGUAGES</text><text x="22" y="82" fill="#f1f5f9" font-size="18">TypeScript</text><text x="22" y="118" fill="#f1f5f9" font-size="18">JavaScript</text><text x="22" y="154" fill="#f1f5f9" font-size="18">HTML · CSS</text><text x="22" y="190" fill="#64748b" font-size="12">FOUNDATION / WEB</text></g>
+    <g transform="translate(422 88)"><rect width="356" height="210" rx="12" fill="#111c30" stroke="#23415a"/><text x="22" y="38" fill="#38bdf8" font-size="14">FRONTEND</text><text x="22" y="82" fill="#f1f5f9" font-size="18">React · Vite</text><text x="22" y="118" fill="#f1f5f9" font-size="18">Tailwind CSS</text><text x="22" y="154" fill="#f1f5f9" font-size="18">shadcn/ui · Radix UI</text><text x="22" y="190" fill="#64748b" font-size="12">INTERFACES / SYSTEMS</text></g>
+    <g transform="translate(812 88)"><rect width="356" height="210" rx="12" fill="#111c30" stroke="#23415a"/><text x="22" y="38" fill="#5eead4" font-size="14">DELIVERY</text><text x="22" y="82" fill="#f1f5f9" font-size="18">Node.js · APIs</text><text x="22" y="118" fill="#f1f5f9" font-size="18">Vitest · Playwright</text><text x="22" y="154" fill="#f1f5f9" font-size="18">Git · GitHub</text><text x="22" y="190" fill="#64748b" font-size="12">QUALITY / WORKFLOW</text></g>
+    <text x="32" y="328" fill="#52627b" font-size="12">Continuously learning. Deliberately shipping.</text>
+  </g>
+</svg>

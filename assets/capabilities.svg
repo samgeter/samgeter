@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title">
+  <title id="title">Core development capabilities</title>
+  <rect x="1" y="1" width="1198" height="248" rx="16" fill="#0b1425" stroke="#263653" stroke-width="2"/>
+  <text x="32" y="43" fill="#64748b" font-family="Consolas, monospace" font-size="14">CORE_CAPABILITIES.json</text>
+  <g font-family="Consolas, monospace">
+    <g transform="translate(32 70)"><rect width="266" height="142" rx="12" fill="#111c30" stroke="#23415a"/><text x="22" y="38" fill="#2dd4bf" font-size="14">01 / PRODUCT UI</text><text x="22" y="75" fill="#f1f5f9" font-size="17">Responsive interfaces</text><text x="22" y="104" fill="#94a3b8" font-size="14">Clear product journeys</text></g>
+    <g transform="translate(322 70)"><rect width="266" height="142" rx="12" fill="#111c30" stroke="#23415a"/><text x="22" y="38" fill="#2dd4bf" font-size="14">02 / FRONTEND</text><text x="22" y="75" fill="#f1f5f9" font-size="17">Reusable systems</text><text x="22" y="104" fill="#94a3b8" font-size="14">Modern React tooling</text></g>
+    <g transform="translate(612 70)"><rect width="266" height="142" rx="12" fill="#111c30" stroke="#23415a"/><text x="22" y="38" fill="#2dd4bf" font-size="14">03 / INTEGRATION</text><text x="22" y="75" fill="#f1f5f9" font-size="17">Services and APIs</text><text x="22" y="104" fill="#94a3b8" font-size="14">Practical automation</text></g>
+    <g transform="translate(902 70)"><rect width="266" height="142" rx="12" fill="#111c30" stroke="#23415a"/><text x="22" y="38" fill="#2dd4bf" font-size="14">04 / QUALITY</text><text x="22" y="75" fill="#f1f5f9" font-size="17">Testing and access</text><text x="22" y="104" fill="#94a3b8" font-size="14">Maintainable delivery</text></g>
+  </g>
+</svg>
