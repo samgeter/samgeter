@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
-  <title id="title">Current development focus</title>
-  <rect x="1" y="1" width="1198" height="298" rx="16" fill="#0b1425" stroke="#263653" stroke-width="2"/>
-  <g font-family="Consolas, monospace">
-    <text x="32" y="44" fill="#64748b" font-size="14">CURRENT_FOCUS / 2026</text>
-    <g transform="translate(32 70)"><rect width="1136" height="176" rx="12" fill="#111c30" stroke="#23415a"/><text x="28" y="43" fill="#2dd4bf" font-size="14">01</text><text x="72" y="43" fill="#f1f5f9" font-size="17">ACCESSIBLE, RESPONSIVE INTERFACES</text><text x="760" y="43" fill="#64748b" font-size="13">PRODUCT QUALITY</text><path d="M28 61h1080" stroke="#263653"/><text x="28" y="94" fill="#2dd4bf" font-size="14">02</text><text x="72" y="94" fill="#f1f5f9" font-size="17">RELIABLE FRONTEND TESTING</text><text x="760" y="94" fill="#64748b" font-size="13">CONFIDENCE</text><path d="M28 112h1080" stroke="#263653"/><text x="28" y="145" fill="#2dd4bf" font-size="14">03</text><text x="72" y="145" fill="#f1f5f9" font-size="17">FULL-STACK PRODUCT DEVELOPMENT</text><text x="760" y="145" fill="#64748b" font-size="13">CONTINUOUS GROWTH</text></g>
-    <text x="32" y="278" fill="#52627b" font-size="12">Build useful things. Learn from real use. Improve deliberately.</text>
-  </g>
-</svg>

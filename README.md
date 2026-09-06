@@ -1,86 +1,109 @@
-<!--
-  SAMGETER — GITHUB PROFILE
-  Custom terminal-inspired SVG assets live in ./assets.
-  Keep public claims accurate and remove confidential information before publishing.
--->
-
 <div align="center">
 
-<a href="#about"><img src="assets/hero-terminal.svg" width="100%" alt="Samgeter — frontend and product developer. System status online."></a>
+<img src="assets/header.svg" width="100%" alt="Samuel Getachew Mulugeta — Software Engineer, Product Lead, and AI Automation Specialist">
 
 <br>
 
-<a href="#about">ABOUT</a> ·
-<a href="#projects">PROJECTS</a> ·
-<a href="#private-work">PRIVATE WORK</a> ·
-<a href="#stack">STACK</a> ·
-<a href="#focus">FOCUS</a> ·
-<a href="#connect">CONNECT</a>
-
-<br><br>
-
-<a href="https://github.com/samgeter?tab=repositories"><img src="https://img.shields.io/badge/VIEW_PROJECTS-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="View projects"></a>
-<a href="https://github.com/samgeter"><img src="https://img.shields.io/badge/CONNECT-172033?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"></a>
+[Selected systems](#selected-systems) · [Technical toolkit](#technical-toolkit) · [GitHub](https://github.com/samgeter)
 
 </div>
 
-<br>
+## Hello
 
-## ABOUT
+I'm **Samuel Getachew Mulugeta**, a software engineer and product lead based in East Africa.
+I design and build AI-powered SaaS products, internal tools, and workflow-driven systems—from
+early product definition and data modelling through deployment and production troubleshooting.
 
-<a href="#about"><img src="assets/cmd-whoami.svg" width="100%" alt="Terminal command: whoami"></a>
+My work sits where product thinking meets engineering: translating an ambiguous operational
+problem into a system people can use, measure, and improve.
 
-Frontend developer focused on turning product ideas into clear, responsive web experiences.
+> Currently: **Product Lead & Software Engineer at Yuba Labs**
 
-I work primarily with React and TypeScript, building interfaces, reusable UI systems,
-product landing pages, and practical integrations. My recent work spans maternal health,
-product design, transactional email, and early-stage digital products.
+## Selected systems
 
-I care about useful software, thoughtful interaction design, and code that remains easy to
-understand as a product grows.
+### 01 — [Yuba](https://yubanow.com/)
 
-<a href="#about"><img src="assets/capabilities.svg" width="100%" alt="Core capabilities: product UI, frontend systems, integrations, and quality."></a>
+**AI operating system for venture building in Africa**
 
-<br>
+I designed and led development of Yuba's multi-tenant platform for founders and
+entrepreneurship-support organizations. The system supports venture-validation journeys,
+cohorts, portfolios, bookings, usage controls, and role-specific workspaces.
 
-## PROJECTS
+`TypeScript` `React` `Supabase` `PostgreSQL` `RBAC` `AI workflows` `API integrations`
 
-<a href="#projects"><img src="assets/projects.svg" width="100%" alt="Selected projects: Kuri Mothers Health, Rootcoz UI, and Yuba Invitation Mailer."></a>
+---
 
-<br>
+### 02 — [Apptus](https://app.useapptus.com/)
 
-## PRIVATE WORK
+**Application and selection infrastructure for entrepreneurship programs**
 
-<a href="#private-work"><img src="assets/private-work.svg" width="100%" alt="Private product work presented through confidentiality-safe case studies."></a>
+I built production-facing SaaS workflows that help support organizations discover founders,
+tailor application requirements, and manage rubric-based selection processes. My work included
+role-aware dashboards, multi-organization access, and operational workflow automation.
 
-Some of my work lives in private repositories. When confidentiality permits, I describe
-that work through the problem, my contribution, the technologies used, and the outcome—
-without exposing proprietary code or internal information.
+`TypeScript` `React` `Supabase` `PostgreSQL` `REST APIs` `Multi-tenant SaaS`
 
-<br>
+---
 
-## STACK
+### 03 — DossieScholar
 
-<a href="#stack"><img src="assets/tech-stack.svg" width="100%" alt="Technology stack: TypeScript, JavaScript, React, Vite, Tailwind CSS, Node.js, Vitest, Playwright, Git, and GitHub."></a>
+**AI knowledge platform for university research**
 
-<br>
+I designed and implemented a pipeline that converts university research papers into structured,
+searchable records. The platform combines document ingestion, OCR, retrieval-augmented
+generation, vector search, and production cloud services.
 
-## FOCUS
+`Python` `FastAPI` `OCR` `RAG` `Qdrant` `Azure OpenAI` `Microsoft Azure`
 
-<a href="#focus"><img src="assets/focus.svg" width="100%" alt="Current focus: accessible interfaces, reliable testing, full-stack growth, and meaningful products."></a>
+---
 
-<br>
+### 04 — Mentel
 
-## CONNECT
+**Private product repository**
 
-<a href="#connect"><img src="assets/connect.svg" width="100%" alt="Build useful products, solve real problems, and create clear experiences."></a>
+Product scope and technical case study available on request.
+
+`Private codebase`
+
+---
+
+### 05 — Zeb
+
+**Private product repository**
+
+Product scope and technical case study available on request.
+
+`Private codebase`
+
+## Technical toolkit
+
+| Area | Technologies and practices |
+| --- | --- |
+| **Languages** | Python, TypeScript, JavaScript, SQL |
+| **Product engineering** | React, FastAPI, REST APIs, multi-tenant SaaS, workflow automation |
+| **Data and access** | PostgreSQL, Supabase, authentication, RBAC, tenant isolation |
+| **Applied AI** | LangChain, LangGraph, RAG, Qdrant, Azure OpenAI, OCR workflows |
+| **Cloud and operations** | Microsoft Azure, Redis, Celery, Locust, Git, GitHub |
+
+## How I work
+
+- Start with the operating problem, not the feature list.
+- Make roles, permissions, and data boundaries explicit early.
+- Turn AI output into structured, repeatable workflows.
+- Test the paths that affect real users and production operations.
+- Document decisions so the system can grow beyond its first builder.
+
+## Beyond the code
+
+I hold a bachelor's degree in Computer Engineering from Addis Ababa Science and Technology
+University and completed Jasiri's residential intensive entrepreneurship program. That mix of
+engineering and venture-building experience shapes how I approach products: technically sound,
+operationally useful, and grounded in real user needs.
 
 <div align="center">
 
-<a href="https://github.com/samgeter"><img src="https://img.shields.io/badge/GITHUB-samgeter-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+### Let's build something useful.
 
-<br><br>
-
-<sub>Designed as a lightweight, original SVG profile · no visitor counters · no inflated claims</sub>
+[Explore my GitHub](https://github.com/samgeter) · [See Yuba](https://yubanow.com/)
 
 </div>
