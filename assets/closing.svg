@@ -1,7 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title">
-  <title id="title">Let's build something useful</title>
-  <rect width="1200" height="230" rx="20" fill="#EF5A3C"/>
-  <circle cx="1045" cy="115" r="150" fill="none" stroke="#F8B09E" stroke-width="2" opacity=".5"/><circle cx="1045" cy="115" r="98" fill="none" stroke="#F8B09E" stroke-width="2" opacity=".65"/><circle cx="1045" cy="115" r="46" fill="#102F42"/>
-  <path d="M1022 115h46M1045 92v46" stroke="#F4EFE6" stroke-width="3"/>
-  <g font-family="Arial, Helvetica, sans-serif"><text x="60" y="68" fill="#722716" font-size="13" font-weight="700" letter-spacing="3">OPEN TO MEANINGFUL PRODUCT COLLABORATION</text><text x="58" y="128" fill="#FFF" font-size="40" font-weight="800">Let's build something useful.</text><text x="60" y="171" fill="#7A2818" font-size="17">AI systems · SaaS products · workflow automation · applied research</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="249" viewBox="0 0 1200 249" role="img" aria-labelledby="title desc">
+<title id="title">Contact</title>
+<desc id="desc">Have something worth building? Start a conversation through the portfolio.</desc>
+<defs>
+  <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M0 54V0h54" fill="none" stroke="#7692cb" stroke-opacity=".11"/></pattern>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#101727"/><stop offset=".62" stop-color="#080a0f"/></linearGradient>
+  <linearGradient id="ink" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop stop-color="#f5f7fb"/><stop offset=".62" stop-color="#9ab0ff"/><stop offset="1" stop-color="#c191ff"/></linearGradient>
+  <radialGradient id="haze"><stop stop-color="#526ec7" stop-opacity=".30"/><stop offset="1" stop-color="#526ec7" stop-opacity="0"/></radialGradient>
+  <clipPath id="bounds"><rect width="1200" height="249" rx="30"/></clipPath>
+</defs>
+<g clip-path="url(#bounds)">
+<rect width="1200" height="249" fill="#080a0f"/>
+<rect width="1200" height="249" fill="url(#panel)"/>
+<ellipse cx="925" cy="67.23" rx="490" ry="231.57000000000002" fill="url(#haze)"/>
+<rect width="1200" height="249" fill="url(#grid)" opacity=".52"/>
+<text x="54" y="57" fill="#9ab0ff" font-family="ui-monospace, Consolas, monospace" font-size="19" letter-spacing="2.5">04 / CONTACT</text>
+<text x="54" y="128" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700">Have something worth building?</text>
+<text x="55" y="185" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="500">Start a conversation</text>
+<circle cx="1091" cy="156" r="38" stroke="#4f6392" fill="#152039"/><path d="M1084 163l14-14m-11 0h11v11" stroke="#c2ceff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<rect x="1" y="1" width="1198" height="247" rx="29" stroke="#283345" stroke-width="2" fill="none"/>
 </svg>

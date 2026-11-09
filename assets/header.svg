@@ -1,34 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
-  <title id="title">Samuel Getachew Mulugeta</title>
-  <desc id="desc">AI Engineer and Product Lead.</desc>
-  <defs>
-    <pattern id="grain" width="38" height="38" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#17394b" opacity=".1"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="430" rx="20" fill="#F2EDE3"/>
-  <rect width="1200" height="430" rx="20" fill="url(#grain)"/>
-  <path d="M0 0h22v430H0z" fill="#EF5A3C"/>
-  <path d="M950 0h250v430H950z" fill="#123247"/>
-  <path d="M950 0 1200 0 950 250z" fill="#173E55"/>
-  <circle cx="1068" cy="310" r="62" fill="none" stroke="#F2EDE3" stroke-width="2" opacity=".35"/>
-  <circle cx="1068" cy="310" r="42" fill="#EF5A3C"/>
-  <path d="M1046 310h44M1068 288v44" stroke="#F2EDE3" stroke-width="3"/>
-
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="76" y="67" fill="#EF5A3C" font-size="15" font-weight="700" letter-spacing="3">APPLIED AI / PRODUCT / SYSTEMS</text>
-    <text x="72" y="165" fill="#102C3C" font-size="64" font-weight="800" letter-spacing="-2">SAMUEL</text>
-    <text x="72" y="228" fill="#102C3C" font-size="64" font-weight="800" letter-spacing="-2">GETACHEW</text>
-    <text x="72" y="270" fill="#53636A" font-size="20" letter-spacing="7">MULUGETA</text>
-    <path d="M72 302h770" stroke="#C8BFB0" stroke-width="2"/>
-    <text x="72" y="345" fill="#102C3C" font-size="22" font-weight="700">AI Engineer</text>
-    <circle cx="223" cy="338" r="4" fill="#EF5A3C"/>
-    <text x="246" y="345" fill="#102C3C" font-size="22" font-weight="700">Product Lead</text>
-    <text x="72" y="389" fill="#67777D" font-size="15">Designing AI systems that turn complex work into useful, repeatable products.</text>
-
-    <text transform="translate(1149 370) rotate(-90)" fill="#F2EDE3" font-size="13" font-weight="700" letter-spacing="4">SAMGETER / 2026</text>
-    <text x="1017" y="112" fill="#F2EDE3" font-size="15" font-weight="700" letter-spacing="3">DISCOVER</text>
-    <text x="1017" y="140" fill="#AFC1CB" font-size="15" letter-spacing="3">DESIGN</text>
-    <text x="1017" y="168" fill="#AFC1CB" font-size="15" letter-spacing="3">DELIVER</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="408" viewBox="0 0 1200 408" role="img" aria-labelledby="title desc">
+<title id="title">Samuel Getachew</title>
+<desc id="desc">Software craft. Intelligent products. Software engineer and product lead in Addis Ababa.</desc>
+<defs>
+  <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M0 54V0h54" fill="none" stroke="#7692cb" stroke-opacity=".11"/></pattern>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#101727"/><stop offset=".62" stop-color="#080a0f"/></linearGradient>
+  <linearGradient id="ink" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop stop-color="#f5f7fb"/><stop offset=".62" stop-color="#9ab0ff"/><stop offset="1" stop-color="#c191ff"/></linearGradient>
+  <radialGradient id="haze"><stop stop-color="#526ec7" stop-opacity=".30"/><stop offset="1" stop-color="#526ec7" stop-opacity="0"/></radialGradient>
+  <clipPath id="bounds"><rect width="1200" height="408" rx="30"/></clipPath>
+</defs>
+<g clip-path="url(#bounds)">
+<rect width="1200" height="408" fill="#080a0f"/>
+<rect width="1200" height="408" fill="url(#panel)"/>
+<ellipse cx="925" cy="110.16000000000001" rx="490" ry="379.44" fill="url(#haze)"/>
+<rect width="1200" height="408" fill="url(#grid)" opacity=".52"/>
+<g transform="translate(928 201)">
+<ellipse cx="0" cy="0" rx="173" ry="57" transform="rotate(-23)" stroke="#a099fd" stroke-opacity=".72" fill="none"/>
+<ellipse cx="0" cy="0" rx="173" ry="53" transform="rotate(28)" stroke="#7793f3" stroke-opacity=".42" fill="none"/>
+<path d="M0-115L91-61 103 45 0 112-103 45-91-61Z M0-115L-48-24 50-27Z M-91-61L-48-24-103 45 0 112 2 64 103 45 50-27 91-61 M-48-24L2 64 50-27 M-103 45L2 64" fill="none" stroke="#9ab0ff" stroke-opacity=".8" stroke-width="1.6"/>
+<path d="M0-115L0-63 91-61 M-91-61L0-63 103 45 M0-63L0 112" fill="none" stroke="#7c9cff" stroke-opacity=".28" stroke-dasharray="5 6"/>
+<circle cx="91" cy="-61" r="3.5" fill="#b1c0ff"/><circle cx="-103" cy="45" r="3.5" fill="#b1c0ff"/><circle cx="2" cy="64" r="3.5" fill="#b1c0ff"/>
+</g><text x="56" y="60" fill="#9ab0ff" font-family="ui-monospace, Consolas, monospace" font-size="19" letter-spacing="2.5">SAMUEL GETACHEW / ADDIS ABABA</text>
+<text x="52" y="162" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700">Software craft.</text>
+<text x="52" y="245" fill="url(#ink)" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">Intelligent products.</text>
+<path d="M56 282L660 282" stroke="#283345" fill="none"/>
+<text x="56" y="327" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500">Software engineer · Product lead</text>
+<text x="56" y="367" fill="#a7afbf" font-family="ui-monospace, Consolas, monospace" font-size="15" letter-spacing="2.5">AI SYSTEMS  /  PRODUCT ENGINEERING</text>
+</g>
+<rect x="1" y="1" width="1198" height="406" rx="29" stroke="#283345" stroke-width="2" fill="none"/>
 </svg>

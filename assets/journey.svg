@@ -1,14 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title">
-  <title id="title">Professional journey</title>
-  <rect width="1200" height="330" rx="20" fill="#102F42"/>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="55" y="58" fill="#F15B3C" font-size="14" font-weight="700" letter-spacing="3">JOURNEY / LEARNING BY BUILDING</text>
-    <path d="M95 161h1010" stroke="#567080" stroke-width="2"/>
-    <g transform="translate(95 0)"><circle cx="0" cy="161" r="11" fill="#F15B3C"/><text x="0" y="116" fill="#F4EFE6" font-size="17" font-weight="700" text-anchor="middle">2022</text><text x="0" y="205" fill="#F4EFE6" font-size="15" font-weight="700" text-anchor="middle">Safe Transport</text><text x="0" y="228" fill="#8FA4AE" font-size="12" text-anchor="middle">Data tooling</text></g>
-    <g transform="translate(330 0)"><circle cx="0" cy="161" r="11" fill="#55C2B3"/><text x="0" y="116" fill="#F4EFE6" font-size="17" font-weight="700" text-anchor="middle">2022—23</text><text x="0" y="205" fill="#F4EFE6" font-size="15" font-weight="700" text-anchor="middle">AgriStar</text><text x="0" y="228" fill="#8FA4AE" font-size="12" text-anchor="middle">Farmer market access</text><text x="0" y="248" fill="#8FA4AE" font-size="12" text-anchor="middle">AYuTe 3rd place</text></g>
-    <g transform="translate(575 0)"><circle cx="0" cy="161" r="11" fill="#F4EFE6"/><text x="0" y="116" fill="#F4EFE6" font-size="17" font-weight="700" text-anchor="middle">2024</text><text x="0" y="205" fill="#F4EFE6" font-size="15" font-weight="700" text-anchor="middle">Computer Engineering</text><text x="0" y="228" fill="#8FA4AE" font-size="12" text-anchor="middle">AASTU</text></g>
-    <g transform="translate(820 0)"><circle cx="0" cy="161" r="11" fill="#55C2B3"/><text x="0" y="116" fill="#F4EFE6" font-size="17" font-weight="700" text-anchor="middle">2024—25</text><text x="0" y="205" fill="#F4EFE6" font-size="15" font-weight="700" text-anchor="middle">Dossie Technologies</text><text x="0" y="228" fill="#8FA4AE" font-size="12" text-anchor="middle">AI knowledge systems</text></g>
-    <g transform="translate(1105 0)"><circle cx="0" cy="161" r="15" fill="#F15B3C"/><circle cx="0" cy="161" r="25" fill="none" stroke="#F15B3C" opacity=".4"/><text x="0" y="116" fill="#F4EFE6" font-size="17" font-weight="700" text-anchor="middle">NOW</text><text x="0" y="205" fill="#F4EFE6" font-size="15" font-weight="700" text-anchor="middle">Yuba Labs</text><text x="0" y="228" fill="#8FA4AE" font-size="12" text-anchor="middle">Product Lead</text><text x="0" y="248" fill="#8FA4AE" font-size="12" text-anchor="middle">AI Engineer</text></g>
-    <text x="55" y="302" fill="#78909B" font-size="12">ADDIS ABABA  ·  KIGALI  ·  PRODUCTS BUILT FOR AFRICAN OPERATING CONTEXTS</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="603" viewBox="0 0 1200 603" role="img" aria-labelledby="title desc">
+<title id="title">Journey</title>
+<desc id="desc">Experience in reverse chronological order. Yuba Labs, Dossie Technologies, Computer Engineering, AgriStar, and Safe Transport Technology.</desc>
+<defs>
+  <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M0 54V0h54" fill="none" stroke="#7692cb" stroke-opacity=".11"/></pattern>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#101727"/><stop offset=".62" stop-color="#080a0f"/></linearGradient>
+  <linearGradient id="ink" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop stop-color="#f5f7fb"/><stop offset=".62" stop-color="#9ab0ff"/><stop offset="1" stop-color="#c191ff"/></linearGradient>
+  <radialGradient id="haze"><stop stop-color="#526ec7" stop-opacity=".30"/><stop offset="1" stop-color="#526ec7" stop-opacity="0"/></radialGradient>
+  <clipPath id="bounds"><rect width="1200" height="603" rx="30"/></clipPath>
+</defs>
+<g clip-path="url(#bounds)">
+<rect width="1200" height="603" fill="#080a0f"/>
+<rect width="1200" height="603" fill="url(#panel)"/>
+<ellipse cx="925" cy="162.81" rx="490" ry="560.7900000000001" fill="url(#haze)"/>
+<rect width="1200" height="603" fill="url(#grid)" opacity=".52"/>
+<text x="54" y="56" fill="#9ab0ff" font-family="ui-monospace, Consolas, monospace" font-size="19" letter-spacing="2.5">03 / JOURNEY</text>
+<text x="54" y="110" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700">Learning through the work</text>
+<path d="M66 170L66 536" stroke="#526caa" fill="none"/>
+<circle cx="66" cy="170" r="8" fill="#b8c7ff"/><text x="95" y="177" fill="#9ab0ff" font-family="ui-monospace, Consolas, monospace" font-size="17" letter-spacing="2.5">AUG 2025–PRESENT</text><text x="398" y="179" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Yuba Labs</text><text x="398" y="211" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">Venture workflows and product infrastructure</text><path d="M95 229L1145 229" stroke="#283345" fill="none"/>
+<circle cx="66" cy="261" r="6" fill="#7c9cff"/><text x="95" y="268" fill="#a7afbf" font-family="ui-monospace, Consolas, monospace" font-size="17" letter-spacing="2.5">NOV 2024–AUG 2025</text><text x="398" y="270" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Dossie Technologies</text><text x="398" y="302" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">Document ingestion and retrieval</text><path d="M95 320L1145 320" stroke="#283345" fill="none"/>
+<circle cx="66" cy="352" r="6" fill="#7c9cff"/><text x="95" y="359" fill="#a7afbf" font-family="ui-monospace, Consolas, monospace" font-size="17" letter-spacing="2.5">2024</text><text x="398" y="361" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Computer Engineering</text><text x="398" y="393" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">Addis Ababa Science and Technology University</text><path d="M95 411L1145 411" stroke="#283345" fill="none"/>
+<circle cx="66" cy="443" r="6" fill="#7c9cff"/><text x="95" y="450" fill="#a7afbf" font-family="ui-monospace, Consolas, monospace" font-size="17" letter-spacing="2.5">DEC 2022–JUN 2023</text><text x="398" y="452" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">AgriStar</text><text x="398" y="484" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">Market access and farmer consultation</text><path d="M95 502L1145 502" stroke="#283345" fill="none"/>
+<circle cx="66" cy="534" r="6" fill="#7c9cff"/><text x="95" y="541" fill="#a7afbf" font-family="ui-monospace, Consolas, monospace" font-size="17" letter-spacing="2.5">OCT 2022–FEB 2023</text><text x="398" y="543" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Safe Transport Technology</text><text x="398" y="575" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500">Outreach data tooling</text>
+</g>
+<rect x="1" y="1" width="1198" height="601" rx="29" stroke="#283345" stroke-width="2" fill="none"/>
 </svg>

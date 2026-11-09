@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="551" viewBox="0 0 1200 551" role="img" aria-labelledby="title desc">
+<title id="title">Selected work</title>
+<desc id="desc">Five products in portfolio order. Yuba, Apptus, DossieScholar, Mentel, and Zeb.</desc>
+<defs>
+  <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M0 54V0h54" fill="none" stroke="#7692cb" stroke-opacity=".11"/></pattern>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#101727"/><stop offset=".62" stop-color="#080a0f"/></linearGradient>
+  <linearGradient id="ink" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop stop-color="#f5f7fb"/><stop offset=".62" stop-color="#9ab0ff"/><stop offset="1" stop-color="#c191ff"/></linearGradient>
+  <radialGradient id="haze"><stop stop-color="#526ec7" stop-opacity=".30"/><stop offset="1" stop-color="#526ec7" stop-opacity="0"/></radialGradient>
+  <clipPath id="bounds"><rect width="1200" height="551" rx="30"/></clipPath>
+</defs>
+<g clip-path="url(#bounds)">
+<rect width="1200" height="551" fill="#080a0f"/>
+<rect width="1200" height="551" fill="url(#panel)"/>
+<ellipse cx="925" cy="148.77" rx="490" ry="512.4300000000001" fill="url(#haze)"/>
+<rect width="1200" height="551" fill="url(#grid)" opacity=".52"/>
+<text x="54" y="56" fill="#9ab0ff" font-family="ui-monospace, Consolas, monospace" font-size="19" letter-spacing="2.5">01 / SELECTED WORK</text>
+<text x="54" y="109" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700">Product portfolio</text>
+<rect x="54" y="139" width="1092" height="116" rx="18" fill="#111723" stroke="#283345"/>
+<path d="M72 140h1056" stroke="#9ab0ff" stroke-opacity=".62" stroke-width="2"/>
+<text x="74" y="172" fill="#9ab0ff" font-family="ui-monospace, Consolas, monospace" font-size="16" letter-spacing="2.5">01</text><text x="122" y="184" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Yuba</text><text x="122" y="218" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">AI platform for venture building</text><path d="M1101 177l14-14m-11 0h11v11" stroke="#9ab0ff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="54" y="271" width="538" height="108" rx="18" fill="#111723" stroke="#283345"/>
+<path d="M72 272h502" stroke="#78dfcf" stroke-opacity=".62" stroke-width="2"/>
+<text x="74" y="304" fill="#78dfcf" font-family="ui-monospace, Consolas, monospace" font-size="16" letter-spacing="2.5">02</text><text x="122" y="316" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Apptus</text><text x="122" y="350" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">Program selection</text><path d="M547 309l14-14m-11 0h11v11" stroke="#78dfcf" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="608" y="271" width="538" height="108" rx="18" fill="#111723" stroke="#283345"/>
+<path d="M626 272h502" stroke="#cfadff" stroke-opacity=".62" stroke-width="2"/>
+<text x="628" y="304" fill="#cfadff" font-family="ui-monospace, Consolas, monospace" font-size="16" letter-spacing="2.5">03</text><text x="676" y="316" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">DossieScholar</text><text x="676" y="350" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">Research knowledge</text><circle cx="1116" cy="302" r="4" fill="#cfadff"/>
+<rect x="54" y="395" width="538" height="108" rx="18" fill="#111723" stroke="#283345"/>
+<path d="M72 396h502" stroke="#ffc18f" stroke-opacity=".62" stroke-width="2"/>
+<text x="74" y="428" fill="#ffc18f" font-family="ui-monospace, Consolas, monospace" font-size="16" letter-spacing="2.5">04</text><text x="122" y="440" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Mentel</text><text x="122" y="474" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">Private product</text><circle cx="562" cy="426" r="4" fill="#ffc18f"/>
+<rect x="608" y="395" width="538" height="108" rx="18" fill="#111723" stroke="#283345"/>
+<path d="M626 396h502" stroke="#93e6bd" stroke-opacity=".62" stroke-width="2"/>
+<text x="628" y="428" fill="#93e6bd" font-family="ui-monospace, Consolas, monospace" font-size="16" letter-spacing="2.5">05</text><text x="676" y="440" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Zeb</text><text x="676" y="474" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">Private product</text><circle cx="1116" cy="426" r="4" fill="#93e6bd"/>
+</g>
+<rect x="1" y="1" width="1198" height="549" rx="29" stroke="#283345" stroke-width="2" fill="none"/>
+</svg>
