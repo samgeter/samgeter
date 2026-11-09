@@ -2,83 +2,54 @@
 
 <a href="https://samuel-getachew.et/"><img src="assets/header.svg" width="100%" alt="Samuel Getachew. Software craft. Intelligent products."></a>
 
-[Work](#product-portfolio) · [How I build](#how-i-build) · [Toolkit](#what-i-build-with) · [Journey](#journey) · [Portfolio](https://samuel-getachew.et/)
+[Selected work](#selected-work) · [How I work](#how-i-work) · [Experience](#experience) · [Portfolio](https://www.samuel-getachew.et/) · [LinkedIn](https://www.linkedin.com/in/samuel--getachew/)
 
 </div>
 
-I’m **Samuel Getachew**, a software engineer and product lead based in Addis Ababa. I build AI-powered products from workflow design and data modelling through deployment, evaluation, and production troubleshooting.
+## Hi, I’m Samuel Getachew
 
-## Product portfolio
+I’m a **software engineer and product lead** based in Addis Ababa. At **Yuba Labs**, I build AI workflows for founders validating ideas and for program teams reviewing applications and managing cohorts.
 
-<img src="assets/product-map.svg" width="100%" alt="Selected work in portfolio order: Yuba, Apptus, DossieScholar, Mentel, and Zeb.">
+I work across product discovery, system design, and production. My engineering focus is AI evaluation, document retrieval, and software that serves multiple organizations with clear boundaries between them.
 
-### 01 · Yuba
+## Selected work
 
-A multi-organization AI platform for venture building. Founders work through structured validation workflows while program teams manage cohorts, portfolios, and role-specific workspaces.
+### [Yuba](https://yubanow.com/) · Venture building
 
-`AI SaaS` · `Venture validation` · `Multi-tenant architecture`
+Founders use Yuba to test their assumptions and turn what they learn into a validation plan. Program teams use it to manage cohorts and track venture progress across organizations. My work spans guided AI workflows, data models, and access by role.
 
-[Product](https://yubanow.com/) · [Problem validation example](https://yubanow.com/shared/A5Wj5wZZfFN_9z2QaQpiaKarqULWHQ5NaEZZq3O3YVw)
+[See a problem validation report](https://yubanow.com/shared/A5Wj5wZZfFN_9z2QaQpiaKarqULWHQ5NaEZZq3O3YVw)
 
-### 02 · Apptus
+### Apptus · Founder applications and selection
 
-An application and selection platform for entrepreneurship support organizations. Teams define application requirements, discover founders, and shortlist candidates against a rubric.
+Entrepreneurship programs define application requirements, review submissions with AI assistance, and shortlist founders against a shared rubric.
 
-`Program operations` · `AI-assisted review` · `Rubric-based selection`
+### DossieScholar · Research discovery
 
-[Product](https://app.useapptus.com/)
+I built document ingestion and retrieval systems that turn university papers into searchable records. The pipeline prepares papers for text extraction (OCR), vector search, and retrieval for AI workflows.
 
-### 03 · DossieScholar
+I also built **Mentel** and **Zeb**, two private products. I can discuss the product and engineering decisions on request.
 
-A research knowledge platform that turns university papers into searchable records. The ingestion pipeline prepares documents for OCR, vector search, and retrieval-augmented generation.
+## How I work
 
-`Document ingestion` · `OCR` · `RAG`
+- **Map the workflow.** Start with the people doing the work, where they get stuck, and how we’ll know the change helped.
+- **Design the data and access together.** Define what each role can see and do, especially when several organizations share a platform.
+- **Evaluate AI against the task.** Set an output format and test whether the results are useful in the workflow.
+- **Ship and follow through.** Investigate production issues and use what we learn to decide what to fix next.
 
-### 04 · Mentel
+**Tools I use:** Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, and Supabase for product engineering; LangGraph, Azure OpenAI, Qdrant, and pgvector for AI and retrieval.
 
-A private product built from an initial concept. Product context and engineering decisions are available on request.
+## Experience
 
-`Private product` · `Zero to one`
+- **Yuba Labs · Aug 2025–present:** AI workflows and product infrastructure for Yuba and Apptus.
+- **Dossie Technologies · Nov 2024–Aug 2025:** Document ingestion, OCR, and retrieval for research papers.
+- **Addis Ababa Science and Technology University · 2024:** Bachelor’s degree in Computer Engineering.
+- **Earlier work:** Software for smallholder farmer market access at AgriStar, and an outreach data collection tool at Safe Transport Technology.
 
-### 05 · Zeb
+## Public code
 
-A private build spanning product definition, interface design, and production engineering. Case study details are available on request.
-
-`Private product` · `Software engineering`
-
-[Selected work and contact](https://samuel-getachew.et/#work)
-
-## How I build
-
-<img src="assets/system-map.svg" width="100%" alt="Four stages: frame the workflow, design the system, build and evaluate, then ship and iterate.">
-
-1. **Frame the workflow.** Map who does what, where the work breaks down, and how to measure a better outcome.
-2. **Design the system.** Define the data model, roles, permissions, and tenant boundaries before wiring up the interfaces.
-3. **Build and evaluate.** Implement the workflow, define structured AI outputs, and test the paths that affect quality and throughput.
-4. **Ship and iterate.** Deploy, investigate production issues, and turn what the team learns into the next change.
-
-## What I build with
-
-Curiosity drives the learning. Real problems shape the toolkit.
-
-| Area | Tools and practices |
-| --- | --- |
-| **Intelligent systems** | Agentic workflows, RAG, PageIndex, LangChain, LangGraph, Azure OpenAI, Qdrant, pgvector, OCR, LLM evaluations, data pipelines |
-| **Product engineering** | Python, TypeScript, JavaScript, SQL, React, Next.js, FastAPI, PostgreSQL, Supabase, REST APIs, Three.js, WebGL |
-| **Architecture & delivery** | Product discovery, rapid prototyping, multi-tenant SaaS, authentication and RBAC, Azure, Redis, Celery, Locust, performance testing |
-
-## Journey
-
-<img src="assets/journey.svg" width="100%" alt="Journey from Safe Transport and AgriStar through computer engineering, Dossie Technologies, and Yuba Labs.">
-
-- **Aug 2025–present · Yuba Labs.** Build AI workflows and product infrastructure across Yuba and Apptus.
-- **Nov 2024–Aug 2025 · Dossie Technologies.** Built document ingestion, OCR, and retrieval systems for research knowledge.
-- **2024 · Addis Ababa Science and Technology University.** Completed a bachelor’s degree in Computer Engineering.
-- **Dec 2022–Jun 2023 · AgriStar.** Developed software for market access and consultation for smallholder farmers.
-- **Oct 2022–Feb 2023 · Safe Transport Technology.** Built an outreach data collection tool during a software engineering internship.
+[Portfolio source](https://github.com/samgeter/Portfolio) · [Kuri Mothers Health](https://github.com/samgeter/kuri-mothers-health)
 
 ## Contact
 
-<a href="https://samuel-getachew.et/#contact"><img src="assets/closing.svg" width="100%" alt="Have something worth building? Start a conversation."></a>
-
-[Portfolio](https://samuel-getachew.et/) · [LinkedIn](https://www.linkedin.com/in/samuel--getachew/)
+[Portfolio](https://www.samuel-getachew.et/) · [LinkedIn](https://www.linkedin.com/in/samuel--getachew/)
