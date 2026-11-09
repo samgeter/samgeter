@@ -10,28 +10,29 @@ I’m **Samuel Getachew**, an AI engineer, software engineer, and founder based 
 
 ## Selected work
 
-- **[Yuba](https://www.samuel-getachew.et/work/yuba/)** · Agentic AI for venture building. I co-designed and led a platform whose agents guide founders from problem discovery through market validation. I built evaluations for task completion and output quality, plus Locust load tests.
-- **[YubaVC](https://www.samuel-getachew.et/work/yubavc/)** · Agentic AI prototype for investment research. I designed a workflow that combines web research and fact-checking into structured investment-readiness reports for human review.
-- **[Apptus](https://www.samuel-getachew.et/work/apptus/)** · Agentic AI for founder recruitment. I designed and built a platform that helps programs find founders, tailor applications, assess submissions against a shared rubric, and shortlist candidates.
-- **[Metus](https://www.samuel-getachew.et/work/metus/)** · 3D web engineering. I built a Three.js experience with five scroll-controlled scenes showing how whey from cheese production could be recovered for protein and animal feed.
-- **[Dossie](https://www.samuel-getachew.et/work/dossie/)** · Enterprise AI and knowledge retrieval. I designed a platform to make information across physical records, documents, and databases searchable in one place.
-- **[DossieClean](https://www.samuel-getachew.et/work/dossieclean/)** · Internal AI tool for document processing. I built a PDF workflow that uses GPT-4o mini to extract metadata for human review and generates embeddings for semantic search. It handled most of the document preparation behind DossieScholar’s collection of 15,000 university research papers.
+- **[Yuba](https://yubanow.com/)** · Multi-agent platform for venture building. I co-designed and led development of a platform where AI agents guide founders from problem discovery through market validation. I built evaluations for agent task completion and output quality, and used Locust to test performance under load.
+- **[YubaVC](https://huggingface.co/spaces/Samgates/yubaVC)** · Agentic AI prototype for venture due diligence. I built a research workflow that gathers evidence from the web, extracts and checks claims, and turns the findings into structured investment readiness reports for human review.
+- **[Apptus](https://app.useapptus.com/)** · Multi-Agent founder recruitment platform. I designed and built a platform that helps entrepreneurship programs discover founders, tailor application requirements, and use a shared rubric to assess submissions and shortlist candidates.
+- **[Metus](http://metus.et/)** · Immersive 3D storytelling website. I built five scroll-controlled scenes with Three.js and WebGL that trace whey from cheese production to its potential recovery as protein and animal feed ingredients.
+- **[Dossie](https://dossie.et/)** · Enterprise AI and knowledge retrieval. I designed a platform to make information across physical records, documents, and databases searchable in one place.
+- **[DossieClean](https://www.samuel-getachew.et/work/dossieclean/)** · Internal AI tool for data cleaning and preparation. I built a PDF workflow that uses GPT-4o mini to extract metadata for human review and generates embeddings for semantic search. It handled most of the document preparation behind DossieScholar’s collection of 15,000 university research papers.
 
 ## Experience
 
 | Role | Focus |
 | --- | --- |
-| **Yuba Labs Ltd** · Co-founder & AI Engineer<br>Aug 2025–present | Build and evaluate AI agent workflows for Yuba, Apptus, and YubaVC |
-| **Dossie Technologies** · Co-founder & AI Engineer<br>Nov 2024–Aug 2025 | Built OCR and retrieval-augmented generation (RAG) systems for research papers and studied AI-assisted medical record digitization |
-| **AgriStar** · Co-founder & Software Engineer<br>Jun 2022–Apr 2023 | Software connecting smallholder farmers with markets and agricultural advice |
-| **Safe Transport Technology** · Software Engineering Intern<br>Oct 2022–Feb 2023 | Telegram research tool and data collection for market analysis and outreach |
+| **Yuba Labs Ltd** · Co-founder & AI Engineer<br>Aug 2025–present | Prototyped, Built and maintain multi-agent systems such as Yuba, Apptus, and YubaVC |
+| **Dossie Technologies** · Co-founder & AI Engineer<br>Nov 2024–Aug 2025 | Built OCR and retrieval-augmented generation (RAG) systems for research papers, AI-assisted medical record digitization and enterprise AI kownledge base|
+| **AgriStar** · Co-founder & Software Engineer<br>Jun 2022–Apr 2023 | A Platform connecting smallholder farmers with markets and agricultural advice |
+| **Safe Transport Technology** · Software Engineering Intern<br>Oct 2022–Feb 2023 | Telegram data scraping tool and data collection using Telepathy (OSINT) for market outreach and analysis |
 
 ## Toolkit
 
-- **Agentic AI** · LangGraph, LangChain, Azure OpenAI, and LLM evaluations.
-- **Document AI and retrieval** · RAG, OCR, PageIndex, Qdrant, and pgvector.
-- **Product engineering** · Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, Supabase, and Three.js.
-- **Architecture and delivery** · Multi-tenant systems, role-based access, Azure, Redis, Celery, and Locust.
+- **AI Engineering & Evaluation** · Agentic workflows, LLM tool integration, structured AI outputs, custom agent evaluations, RAG, vector search, and OCR. LangGraph, LangChain, Azure OpenAI, and Qdrant.
+- **Programming & Data Engineering** · Python, TypeScript, JavaScript, SQL, PostgreSQL, and Supabase. Data cleaning, preprocessing, and ingestion pipelines.
+- **Application Development, Cloud & Testing** · React, Next.js, Three.js, WebGL, FastAPI, and REST APIs. Multi-tenant SaaS, workflow automation, authentication, role-based access, Azure, Redis, Celery, Locust load testing, and production troubleshooting.
+- **Product Development & Engineering** · Requirements analysis, problem scoping, rapid prototyping, technical documentation, testing, and debugging.
+- **Leadership & Collaboration** · End-to-end product ownership, cross-functional collaboration, stakeholder engagement, and technical communication.
 
 ## Writing
 
