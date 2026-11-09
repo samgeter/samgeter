@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="408" viewBox="0 0 1200 408" role="img" aria-labelledby="title desc">
 <title id="title">Samuel Getachew</title>
-<desc id="desc">Software craft. Intelligent products. Software engineer and product lead in Addis Ababa.</desc>
+<desc id="desc">Building intelligent systems, creating useful products. AI engineer and founder in Addis Ababa.</desc>
 <defs>
   <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M0 54V0h54" fill="none" stroke="#7692cb" stroke-opacity=".11"/></pattern>
   <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#101727"/><stop offset=".62" stop-color="#080a0f"/></linearGradient>
@@ -20,10 +20,10 @@
 <path d="M0-115L0-63 91-61 M-91-61L0-63 103 45 M0-63L0 112" fill="none" stroke="#7c9cff" stroke-opacity=".28" stroke-dasharray="5 6"/>
 <circle cx="91" cy="-61" r="3.5" fill="#b1c0ff"/><circle cx="-103" cy="45" r="3.5" fill="#b1c0ff"/><circle cx="2" cy="64" r="3.5" fill="#b1c0ff"/>
 </g><text x="56" y="60" fill="#9ab0ff" font-family="ui-monospace, Consolas, monospace" font-size="19" letter-spacing="2.5">SAMUEL GETACHEW / ADDIS ABABA</text>
-<text x="52" y="162" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700">Software craft.</text>
-<text x="52" y="245" fill="url(#ink)" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">Intelligent products.</text>
+<text x="52" y="162" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Building intelligent systems,</text>
+<text x="52" y="226" fill="url(#ink)" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">creating useful products.</text>
 <path d="M56 282L660 282" stroke="#283345" fill="none"/>
-<text x="56" y="327" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500">Software engineer · Product lead</text>
+<text x="56" y="327" fill="#a7afbf" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500">AI engineer · Founder</text>
 <text x="56" y="367" fill="#a7afbf" font-family="ui-monospace, Consolas, monospace" font-size="15" letter-spacing="2.5">AI SYSTEMS  /  PRODUCT ENGINEERING</text>
 </g>
 <rect x="1" y="1" width="1198" height="406" rx="29" stroke="#283345" stroke-width="2" fill="none"/>
